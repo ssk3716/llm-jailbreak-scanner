@@ -39,7 +39,7 @@ llm_jailbreak_scanner/
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/llm_jailbreak_scanner.git
+    git clone https://github.com/ssk3716/llm_jailbreak_scanner.git
     cd llm_jailbreak_scanner
     ```
 
